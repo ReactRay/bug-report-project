@@ -1,0 +1,98 @@
+[
+  {
+    "title": "crazy bug broke my computer",
+    "severity": 10,
+    "description": "the boss of all bugs",
+    "labels": ["dev-branch", "famous", "high"],
+    "_id": "xfiW0N",
+    "time": 1739778451088,
+    "owner": {
+      "_id": "PMY9ur",
+      "fullname": "baba"
+    }
+  },
+  {
+    "title": "i can't log in into my account !",
+    "severity": 10,
+    "description": "how am i supposed to work ?!",
+    "labels": ["critical", "need-CR"],
+    "_id": "pBZ8dv",
+    "time": 1739778487340,
+    "owner": {
+      "_id": "PMY9ur",
+      "fullname": "baba"
+    }
+  },
+  {
+    "title": "my screen is black",
+    "severity": 2,
+    "description": "i can't see !",
+    "labels": ["critical", "dev-branch", "famous"],
+    "_id": "5Y7bit",
+    "time": 1739778509916,
+    "owner": {
+      "_id": "PMY9ur",
+      "fullname": "baba"
+    }
+  },
+  {
+    "title": "there is a bug on my desk!",
+    "severity": 4,
+    "description": "its big and looks scary",
+    "labels": ["need-CR", "dev-branch", "high"],
+    "_id": "dkYaOC",
+    "time": 1739778555627,
+    "owner": {
+      "_id": "54Algn",
+      "fullname": "zaza"
+    }
+  },
+  {
+    "title": "HELP!",
+    "severity": 3,
+    "description": "im hungry T_T",
+    "labels": ["critical", "famous", "high"],
+    "_id": "DrAFb4",
+    "time": 1739778577807,
+    "owner": {
+      "_id": "54Algn",
+      "fullname": "zaza"
+    }
+  },
+  {
+    "title": "i can't find my glasses",
+    "severity": 6,
+    "description": "where is it !",
+    "labels": ["critical", "need-CR", "dev-branch"],
+    "_id": "khEu4r",
+    "time": 1739778652616,
+    "owner": {
+      "_id": "AX54dw",
+      "fullname": "anna"
+    }
+  },
+  {
+    "title": "coding is hard",
+    "severity": 8,
+    "description": "how do i console.log?!",
+    "labels": ["critical", "need-CR", "dev-branch", "famous", "high"],
+    "_id": "5ty1ru",
+    "time": 1739778679508,
+    "owner": {
+      "_id": "AX54dw",
+      "fullname": "anna"
+    }
+  },
+  {
+    "title": "paging is confusing !",
+    "severity": 1,
+    "description": "how do you do it ?",
+    "labels": ["need-CR", "dev-branch"],
+    "_id": "WCifP0",
+    "time": 1739778704816,
+    "owner": {
+      "_id": "AX54dw",
+      "fullname": "anna"
+    }
+  }
+]
