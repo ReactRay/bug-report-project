@@ -20,12 +20,14 @@ function getLoginToken(user) {
 function validateToken(token) {
   try {
     const json = cryptr.decrypt(token)
+    console.log(json, ' json or token')
     const loggedinUser = JSON.parse(json)
+    console.log(loggedinUser, 'in validation')
     return loggedinUser
   } catch (err) {
     console.log('Invalid login token')
+    return {}
   }
-  return null
 }
 
 async function login(username, password) {

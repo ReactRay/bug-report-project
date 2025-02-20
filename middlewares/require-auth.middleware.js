@@ -9,6 +9,13 @@ export function requireAuth(req, res, next) {
   next()
 }
 
+export function requireAdmin(req, res, next) {
+  const loggedinUser = authService.validateToken(req.cookies.loginToken)
+  console.log(loggedinUser, 'check if is it admin')
+  if (!loggedinUser.isAdmin) res.status(401).send('only admin can do this!')
+  next()
+}
+
 // export function requireAuth(req, res, next) {
 //   try {
 //     const loggedinUser = JSON.parse(req.cookies.loginToken)

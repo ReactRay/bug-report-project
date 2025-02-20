@@ -29,18 +29,10 @@
   {
     "username": "aa",
     "password": "$2b$10$A5NCNQDGSdjJ6JxsQs/FZO0sE1tizFvEQ.OOpOhbMRE30SMk4PuZm",
-    "fullname": "anna",
+    "fullname": "anna2",
     "imgUrl": "https://res.cloudinary.com/danlxus36/image/upload/v1739778626/3_kdyeii.jpg",
     "score": 1000,
     "isAdmin": false,
     "_id": "AX54dw"
-  },
-  {
-    "username": "luka",
-    "fullname": "Luciano",
-    "password": "123",
-    "score": 0,
-    "imgUrl": "https://res.cloudinary.com/danlxus36/image/upload/v1739785867/1_kkx5hc.jpg",
-    "_id": "Gu77XD"
   }
 ]

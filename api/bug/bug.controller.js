@@ -6,7 +6,7 @@ export async function getBugs(req, res) {
       txt: req.query.filterBy?.txt || '',
       minSeverity: +req.query.filterBy?.minSeverity || 0,
       labels: req.query.filterBy?.labels || [],
-      pageIdx: req.query.filterBy.pageIdx,
+      pageIdx: req.query.filterBy?.pageIdx,
     }
     const sortBy = {
       by: req.query.sortBy?.by || '',

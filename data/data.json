@@ -16,37 +16,6 @@
         }
     },
     {
-        "title": "i can't log in into my account !",
-        "severity": 10,
-        "description": "how am i supposed to work ?!",
-        "labels": [
-            "critical",
-            "need-CR"
-        ],
-        "_id": "pBZ8dv",
-        "time": 1739778487340,
-        "owner": {
-            "_id": "PMY9ur",
-            "fullname": "baba"
-        }
-    },
-    {
-        "title": "my screen is black",
-        "severity": 2,
-        "description": "i can't see !",
-        "labels": [
-            "critical",
-            "dev-branch",
-            "famous"
-        ],
-        "_id": "5Y7bit",
-        "time": 1739778509916,
-        "owner": {
-            "_id": "PMY9ur",
-            "fullname": "baba"
-        }
-    },
-    {
         "title": "there is a bug on my desk!",
         "severity": 4,
         "description": "its big and looks scary",
@@ -91,21 +60,6 @@
         ],
         "_id": "5ty1ru",
         "time": 1739778679508,
-        "owner": {
-            "_id": "AX54dw",
-            "fullname": "anna"
-        }
-    },
-    {
-        "title": "paging is confusing !",
-        "severity": 1,
-        "description": "how do you do it ?",
-        "labels": [
-            "need-CR",
-            "dev-branch"
-        ],
-        "_id": "WCifP0",
-        "time": 1739778704816,
         "owner": {
             "_id": "AX54dw",
             "fullname": "anna"
